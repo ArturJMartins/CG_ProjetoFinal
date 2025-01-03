@@ -57,6 +57,11 @@ public class Player : MonoBehaviour
             SendMineSweeper();
         }
 
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+            Application.Quit();
+        }
+
         UpdateRotation();
         UpdateHead();
     }
@@ -122,7 +127,7 @@ public class Player : MonoBehaviour
         {
             Quaternion decalRotation = Quaternion.LookRotation(hitInfo.normal);
 
-            GameObject decal = Instantiate(decalGameObject, hitInfo.point, decalRotation);
+            Instantiate(decalGameObject, hitInfo.point, decalRotation);
         }
     }
 

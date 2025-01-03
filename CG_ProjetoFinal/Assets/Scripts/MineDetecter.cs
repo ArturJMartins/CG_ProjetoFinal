@@ -10,6 +10,11 @@ public class MineDetecter : MonoBehaviour
     private float cooldownTime = 1f;    
     private float lastShootTime = -1f;  
 
+    private void Start()
+    {
+        Destroy(gameObject, 30f);
+    }
+
     private void Update()
     {
         transform.Translate(Vector3.forward * speed * Time.deltaTime);
