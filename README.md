@@ -25,6 +25,8 @@ In the end, I made a prefab of this GameObject.
 
 I created a dark room, removing the directional light and the skybox, leaving only 1 point light in the beginning of the room. I created a `Player` script that shoots a decal prefab onto the rooms walls for testing. Then I decided to create one GameObject with the `MineDetecter` script that will move only forward, shooting the decals downwards creating a path with lights in the dark. With that I created a new decal material and placed 2 types of layers on the ground, so that this GameObject while shooting decals downwards could shoot a different decal material based on the layer type. If this was a game, the green emissive decal represents a safe path and the red emissive decal represents the mine spot.  
 
+![Screenshot of the app](Images/Decals.png "Build decals")
+
 ## Build Controllers
 
 - Walk: W,A,S,D
