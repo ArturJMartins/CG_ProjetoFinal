@@ -49,7 +49,7 @@ I created a dark room, removing the directional light and the skybox, leaving on
 - Unity Decal Tutorial: <https://www.youtube.com/watch?v=nqhkB8CG8pc&ab_channel=Unity>
 
 ```mermaid
-pie
+pie showData
     title Qualidade do equipamento
     "Reclamaram" : 15
     "Não houve reclamação" : 85
