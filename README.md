@@ -50,7 +50,7 @@ I created a dark room, removing the directional light and the skybox, leaving on
 
 ```mermaid
 pie
-    title Qualidade do equipamento
-    "Não houve reclamação" : 85
-    "Reclamaram" : 15
+    title Quantas pessoas usaram as mãos
+    "Usaram as mãos" : 46
+    "Não usaram as mãos" : 54
 ```
