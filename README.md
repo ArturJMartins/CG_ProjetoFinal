@@ -54,3 +54,17 @@ pie
     "Usaram as mãos" : 46
     "Não usaram as mãos" : 54
 ```
+
+```mermaid
+pie
+    title Pessoas que jogaram Tetris ou cartas 
+    "Jogaram tetris ou jogo de cartas" : 85
+    "Não jogaram tetris ou jogo de cartas" : 15
+```
+
+```mermaid
+pie
+    title Pessoas que falaram pelo menos 1 vez
+    "Falaram durante o jogo" : 93
+    "Não falaram durante o jogo" : 7
+```
