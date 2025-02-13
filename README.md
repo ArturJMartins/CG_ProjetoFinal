@@ -47,3 +47,10 @@ I created a dark room, removing the directional light and the skybox, leaving on
 - Unity Spray Decal: <https://www.youtube.com/watch?v=sDrNRsihePQ&ab_channel=BinaryLunar>
 - Unity Shader Graph: <https://www.youtube.com/watch?v=M5t-pJWQwVM&ab_channel=Tannos2023>
 - Unity Decal Tutorial: <https://www.youtube.com/watch?v=nqhkB8CG8pc&ab_channel=Unity>
+
+```mermaid
+pie
+    title Qualidade do equipamento
+    "Reclamaram" : 15
+    "Não houve reclamação" : 85
+```
