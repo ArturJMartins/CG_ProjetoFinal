@@ -53,4 +53,5 @@ pie
     title Qualidade do equipamento
     "Reclamaram" : 15
     "Não houve reclamação" : 85
+    color #FF5733 #33FF57
 ```
